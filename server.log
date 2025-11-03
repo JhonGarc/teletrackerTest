@@ -1,0 +1,186 @@
+[2025-10-31 15:17:47] [32minfo[39m: Iniciando envío de mensajes SMS...
+[2025-10-31 15:17:47] [31merror[39m: Fallo al enviar SMS: Request failed with status code 401
+[2025-10-31 15:17:59] [33mwarn[39m: Señal SIGINT detectada. Iniciando apagado...
+[2025-10-31 15:20:18] [32minfo[39m: Iniciando envío de mensajes SMS...
+[2025-10-31 15:20:19] [31merror[39m: Fallo al enviar SMS: Request failed with status code 401
+[2025-10-31 15:20:32] [33mwarn[39m: Señal SIGINT detectada. Iniciando apagado...
+[2025-10-31 15:28:41] [32minfo[39m: Iniciando envío de mensajes SMS...
+[2025-10-31 15:28:41] [31merror[39m: Fallo al enviar SMS: Request failed with status code 401
+[2025-10-31 15:29:42] [31merror[39m: Fallo al enviar SMS: Request failed with status code 401
+[2025-10-31 15:30:43] [31merror[39m: Fallo al enviar SMS: Request failed with status code 401
+[2025-10-31 15:31:44] [31merror[39m: Fallo al enviar SMS: Request failed with status code 401
+[2025-10-31 15:32:44] [31merror[39m: Fallo al enviar SMS: Request failed with status code 401
+[2025-10-31 15:33:17] [33mwarn[39m: Señal SIGINT detectada. Iniciando apagado...
+[2025-10-31 15:33:23] [32minfo[39m: Iniciando envío de mensajes SMS...
+[2025-10-31 15:33:23] [31merror[39m: Fallo al enviar SMS: Request failed with status code 422
+[2025-10-31 15:33:38] [33mwarn[39m: Señal SIGINT detectada. Iniciando apagado...
+[2025-11-01 01:29:42] [32minfo[39m: Iniciando envío de mensajes SMS...
+[2025-11-01 01:29:46] [32minfo[39m: SMS enviado: "Mensaje número diez" (3544 ms)
+[2025-11-01 01:30:47] [32minfo[39m: SMS enviado: "Mensaje número nueve" (1059 ms)
+[2025-11-01 01:31:17] [33mwarn[39m: Señal SIGINT detectada. Iniciando apagado...
+[2025-11-01 13:09:37] [32minfo[39m: Iniciando envío de mensajes SMS...
+[2025-11-01 13:09:40] [32minfo[39m: SMS enviado: "Mensaje número diez" (2415 ms)
+[2025-11-01 13:10:37] [33mwarn[39m: Señal SIGINT detectada. Iniciando apagado...
+[2025-11-01 13:12:01] [32minfo[39m: Iniciando envío de mensajes SMS...
+[2025-11-01 13:12:02] [32minfo[39m: SMS enviado: "Message number ten — the grand finale!" (1338 ms)
+[2025-11-01 13:12:34] [32minfo[39m: SMS enviado: "Testing, testing... is anyone out there?" (1828 ms)
+[2025-11-01 13:13:05] [32minfo[39m: SMS enviado: "This message is sponsored by curiosity." (1115 ms)
+[2025-11-01 13:13:36] [32minfo[39m: SMS enviado: "How many tacos is too many tacos?" (916 ms)
+[2025-11-01 13:14:07] [32minfo[39m: SMS enviado: "Beep boop... just another test message!" (1175 ms)
+[2025-11-01 13:14:39] [32minfo[39m: SMS enviado: "Ever wondered where lost socks go?" (1131 ms)
+[2025-11-01 13:15:10] [32minfo[39m: SMS enviado: "Message number four reporting for duty!" (1069 ms)
+[2025-11-01 13:15:41] [32minfo[39m: SMS enviado: "If cats could text, what would they even say?" (824 ms)
+[2025-11-01 13:16:12] [32minfo[39m: SMS enviado: "How much does a cloud weigh on a sunny day?" (1139 ms)
+[2025-11-01 13:16:43] [32minfo[39m: SMS enviado: "Hello there, this is test message number one!" (819 ms)
+[2025-11-01 13:17:13] [32minfo[39m: Enviando mensaje MMS final...
+[2025-11-01 13:17:14] [32minfo[39m: MMS enviado (1335 ms)
+[2025-11-01 16:28:00] [32minfo[39m: Iniciando envío de mensajes SMS...
+[2025-11-01 16:28:03] [32minfo[39m: SMS enviado: "Message number ten — the grand finale!" (2494 ms)
+[2025-11-01 16:28:20] [32minfo[39m: SMS enviado: "Testing, testing... is anyone out there?" (1829 ms)
+[2025-11-01 16:28:30] [33mwarn[39m: Señal SIGINT detectada. Iniciando apagado...
+[2025-11-01 16:29:16] [32minfo[39m: Iniciando envío de mensajes SMS...
+[2025-11-01 16:29:16] [32minfo[39m: Enviando mensaje MMS final...
+[2025-11-01 16:29:17] [31merror[39m: Fallo al enviar MMS: this.getAuthHeader is not a function
+[2025-11-01 16:30:29] [32minfo[39m: Iniciando envío de mensajes SMS...
+[2025-11-01 16:30:29] [32minfo[39m: Enviando mensaje MMS final...
+[2025-11-01 16:30:31] [32minfo[39m: MMS enviado (2037 ms)
+[2025-11-01 16:54:26] [32minfo[39m: Iniciando envío de mensajes SMS...
+[2025-11-01 16:54:26] [32minfo[39m: Enviando mensaje MMS final...
+[2025-11-01 16:54:29] [32minfo[39m: MMS enviado (3398 ms)
+[2025-11-01 16:54:55] [32minfo[39m: Iniciando envío de mensajes SMS...
+[2025-11-01 16:54:55] [32minfo[39m: SMS enviado: "Message number ten — the grand finale!" (892 ms)
+[2025-11-01 16:54:58] [33mwarn[39m: Señal SIGINT detectada. Iniciando apagado...
+[2025-11-01 16:56:31] [32minfo[39m: Iniciando envío de mensajes SMS...
+[2025-11-01 16:56:33] [32minfo[39m: SMS enviado: "Message number ten — the grand finale!" (2161 ms)
+[2025-11-01 16:56:39] [33mwarn[39m: Señal SIGINT detectada. Iniciando apagado...
+[2025-11-01 17:15:53] [32minfo[39m: Iniciando envío de mensajes SMS...
+[2025-11-01 17:15:56] [32minfo[39m: SMS enviado: "Message number ten — the grand finale!" (2639 ms)
+[2025-11-01 17:16:13] [32minfo[39m: SMS enviado: "Testing, testing... is anyone out there?" (1774 ms)
+[2025-11-01 17:16:30] [32minfo[39m: SMS enviado: "This message is sponsored by curiosity." (2179 ms)
+[2025-11-01 17:16:46] [32minfo[39m: SMS enviado: "How many tacos is too many tacos?" (756 ms)
+[2025-11-01 17:17:02] [32minfo[39m: SMS enviado: "Beep boop... just another test message!" (1218 ms)
+[2025-11-01 17:17:19] [32minfo[39m: SMS enviado: "Ever wondered where lost socks go?" (1009 ms)
+[2025-11-01 17:17:22] [33mwarn[39m: Señal SIGINT detectada. Iniciando apagado...
+[2025-11-01 17:19:47] [32minfo[39m: Iniciando envío de mensajes SMS...
+[2025-11-01 17:19:48] [32minfo[39m: SMS enviado: "Message number ten — the grand finale!" (1248 ms)
+[2025-11-01 17:20:04] [32minfo[39m: SMS enviado: "Testing, testing... is anyone out there?" (839 ms)
+[2025-11-01 17:20:20] [32minfo[39m: SMS enviado: "This message is sponsored by curiosity." (845 ms)
+[2025-11-01 17:20:36] [32minfo[39m: SMS enviado: "How many tacos is too many tacos?" (806 ms)
+[2025-11-01 17:20:52] [32minfo[39m: SMS enviado: "Beep boop... just another test message!" (989 ms)
+[2025-11-01 17:21:08] [32minfo[39m: SMS enviado: "Ever wondered where lost socks go?" (815 ms)
+[2025-11-01 17:21:24] [32minfo[39m: SMS enviado: "Message number four reporting for duty!" (859 ms)
+[2025-11-01 17:21:39] [32minfo[39m: SMS enviado: "If cats could text, what would they even say?" (835 ms)
+[2025-11-01 17:21:45] [33mwarn[39m: Señal SIGINT detectada. Iniciando apagado...
+[2025-11-01 17:27:45] [32minfo[39m: Iniciando envío de mensajes SMS...
+[2025-11-01 17:27:46] [32minfo[39m: SMS enviado: "Message number ten — the grand finale!" (1520 ms)
+[2025-11-01 17:27:55] [32minfo[39m: SMS enviado: "Testing, testing... is anyone out there?" (1079 ms)
+[2025-11-01 17:28:04] [32minfo[39m: SMS enviado: "This message is sponsored by curiosity." (1088 ms)
+[2025-11-01 17:28:12] [32minfo[39m: SMS enviado: "How many tacos is too many tacos?" (827 ms)
+[2025-11-01 17:28:22] [32minfo[39m: SMS enviado: "Beep boop... just another test message!" (1854 ms)
+[2025-11-01 17:28:30] [32minfo[39m: SMS enviado: "Ever wondered where lost socks go?" (841 ms)
+[2025-11-01 17:28:39] [32minfo[39m: SMS enviado: "Message number four reporting for duty!" (1168 ms)
+[2025-11-01 17:28:48] [32minfo[39m: SMS enviado: "If cats could text, what would they even say?" (1226 ms)
+[2025-11-01 17:28:56] [32minfo[39m: SMS enviado: "How much does a cloud weigh on a sunny day?" (1077 ms)
+[2025-11-01 17:29:05] [32minfo[39m: SMS enviado: "Hello there, this is test message number one!" (1035 ms)
+[2025-11-01 17:29:12] [32minfo[39m: Enviando mensaje MMS final...
+[2025-11-01 17:29:14] [32minfo[39m: MMS enviado (1579 ms)
+[2025-11-01 17:31:21] [32minfo[39m: Iniciando envío de mensajes SMS...
+[2025-11-01 17:31:23] [32minfo[39m: SMS enviado: "Message number ten — the grand finale!" (1966 ms)
+[2025-11-01 17:31:31] [32minfo[39m: SMS enviado: "Testing, testing... is anyone out there?" (782 ms)
+[2025-11-01 17:31:40] [32minfo[39m: SMS enviado: "This message is sponsored by curiosity." (1740 ms)
+[2025-11-01 17:31:49] [32minfo[39m: SMS enviado: "How many tacos is too many tacos?" (1046 ms)
+[2025-11-01 17:31:57] [32minfo[39m: SMS enviado: "Beep boop... just another test message!" (1044 ms)
+[2025-11-01 17:32:06] [32minfo[39m: SMS enviado: "Ever wondered where lost socks go?" (850 ms)
+[2025-11-01 17:32:14] [32minfo[39m: SMS enviado: "Message number four reporting for duty!" (766 ms)
+[2025-11-01 17:32:23] [32minfo[39m: SMS enviado: "If cats could text, what would they even say?" (1280 ms)
+[2025-11-01 17:32:31] [32minfo[39m: SMS enviado: "How much does a cloud weigh on a sunny day?" (801 ms)
+[2025-11-01 17:32:40] [32minfo[39m: SMS enviado: "Hello there, this is test message number one!" (1062 ms)
+[2025-11-01 17:32:47] [32minfo[39m: Enviando mensaje MMS final...
+[2025-11-01 17:32:49] [32minfo[39m: MMS enviado (1839 ms)
+[2025-11-01 17:35:57] [32minfo[39m: Iniciando envío de mensajes SMS...
+[2025-11-01 17:35:58] [32minfo[39m: SMS enviado: "Message number ten — the grand finale!" (1240 ms)
+[2025-11-01 17:36:05] [33mwarn[39m: Señal SIGINT detectada. Iniciando apagado...
+[2025-11-01 17:36:28] [32minfo[39m: Iniciando envío de mensajes SMS...
+[2025-11-01 17:36:29] [32minfo[39m: SMS enviado: "How much does a cloud weigh on a sunny day?" (1240 ms)
+[2025-11-01 17:36:38] [32minfo[39m: SMS enviado: "Hello there, this is test message number one!" (823 ms)
+[2025-11-01 17:36:45] [32minfo[39m: Enviando mensaje MMS final...
+[2025-11-01 17:36:47] [32minfo[39m: MMS enviado (1942 ms)
+[2025-11-01 17:36:47] [32minfo[39m: Todos los mensajes fueron enviados correctamente.
+[2025-11-01 17:36:47] [32minfo[39m: enviando signal de SIGINIT al proceso
+[2025-11-01 17:38:55] [32minfo[39m: test POSIX SIGHUP SIGNAL
+[2025-11-01 17:38:55] [32minfo[39m: Iniciando envío de mensajes SMS...
+[2025-11-01 17:38:55] [32minfo[39m: ¡Señal SIGHUP recibida!
+[2025-11-01 17:38:57] [32minfo[39m: SMS enviado: "How much does a cloud weigh on a sunny day?" (1746 ms)
+[2025-11-01 17:39:05] [33mwarn[39m: Señal SIGINT detectada. Iniciando apagado...
+[2025-11-01 17:39:19] [32minfo[39m: test POSIX SIGHUP SIGNAL
+[2025-11-01 17:39:19] [32minfo[39m: Iniciando envío de mensajes SMS...
+[2025-11-01 17:39:19] [33mwarn[39m: ¡Señal SIGHUP recibida!
+[2025-11-01 17:39:21] [32minfo[39m: SMS enviado: "How much does a cloud weigh on a sunny day?" (1117 ms)
+[2025-11-01 17:39:29] [32minfo[39m: SMS enviado: "Hello there, this is test message number one!" (1041 ms)
+[2025-11-01 17:39:33] [33mwarn[39m: Señal SIGINT detectada. Iniciando apagado...
+[2025-11-01 17:40:03] [32minfo[39m: test POSIX SIGHUP SIGNAL
+[2025-11-01 17:40:03] [32minfo[39m: Iniciando envío de mensajes SMS...
+[2025-11-01 17:40:03] [33mwarn[39m: ¡Señal SIGHUP recibida!
+[2025-11-01 17:40:04] [33mwarn[39m: Señal SIGINT detectada. Iniciando apagado...
+[2025-11-01 17:40:19] [32minfo[39m: test POSIX SIGHUP SIGNAL
+[2025-11-01 17:40:19] [32minfo[39m: Iniciando envío de mensajes SMS...
+[2025-11-01 17:40:19] [33mwarn[39m: ¡Señal SIGHUP recibida!
+[2025-11-01 17:40:20] [32minfo[39m: SMS enviado: "How much does a cloud weigh on a sunny day?" (892 ms)
+[2025-11-01 17:40:29] [32minfo[39m: SMS enviado: "Hello there, this is test message number one!" (1019 ms)
+[2025-11-01 17:40:36] [32minfo[39m: Enviando mensaje MMS final...
+[2025-11-01 17:40:38] [32minfo[39m: MMS enviado (1777 ms)
+[2025-11-01 17:40:38] [32minfo[39m: Todos los mensajes fueron enviados correctamente.
+[2025-11-01 17:40:38] [32minfo[39m: enviando signal de SIGINIT al proceso
+[2025-11-01 17:41:23] [32minfo[39m: test POSIX SIGHUP SIGNAL
+[2025-11-01 17:41:23] [32minfo[39m: Iniciando envío de mensajes SMS...
+[2025-11-01 17:41:23] [33mwarn[39m: ¡Señal SIGHUP recibida!
+[2025-11-01 17:41:24] [33mwarn[39m: Señal SIGINT detectada. Iniciando apagado...
+[2025-11-01 17:50:07] [32minfo[39m: test POSIX SIGHUP SIGNAL
+[2025-11-01 17:50:07] [32minfo[39m: Iniciando envío de mensajes SMS...
+[2025-11-01 17:50:07] [33mwarn[39m: ¡Señal SIGHUP recibida!
+[2025-11-01 17:50:09] [32minfo[39m: SMS enviado: "How much does a cloud weigh on a sunny day?" (2342 ms)
+[2025-11-01 17:50:14] [33mwarn[39m: Señal SIGINT detectada. Iniciando apagado...
+[2025-11-01 17:53:08] [32minfo[39m: --- Resumen de mensajes ---
+[2025-11-01 17:55:29] [32minfo[39m: test POSIX SIGHUP SIGNAL
+[2025-11-01 17:55:29] [32minfo[39m: Iniciando envío de mensajes SMS...
+[2025-11-01 17:55:29] [33mwarn[39m: ¡Señal SIGHUP recibida!
+[2025-11-01 17:55:31] [32minfo[39m: SMS enviado: "How much does a cloud weigh on a sunny day?" (1523 ms)
+[2025-11-01 17:55:40] [32minfo[39m: SMS enviado: "Hello there, this is test message number one!" (1930 ms)
+[2025-11-01 17:55:42] [33mwarn[39m: Señal SIGINT detectada. Iniciando apagado...
+[2025-11-01 17:55:44] [32minfo[39m: --- Resumen de mensajes ---
+[2025-11-03 13:53:18] [32minfo[39m: SQLite database initialized and table verified.
+[2025-11-03 13:53:18] [32minfo[39m: test POSIX SIGHUP SIGNAL
+[2025-11-03 13:53:18] [32minfo[39m: Starting SMS message sequence...
+[2025-11-03 13:53:18] [33mwarn[39m: SIGHUP signal received!
+[2025-11-03 13:53:21] [32minfo[39m: SMS sent: "Message number ten — the grand finale!" (2117 ms)
+[2025-11-03 13:53:30] [32minfo[39m: SMS sent: "Testing, testing... is anyone out there?" (2068 ms)
+[2025-11-03 13:53:39] [32minfo[39m: SMS sent: "This message is sponsored by curiosity." (1206 ms)
+[2025-11-03 13:53:47] [32minfo[39m: SMS sent: "How many tacos is too many tacos?" (1087 ms)
+[2025-11-03 13:53:57] [32minfo[39m: SMS sent: "Beep boop... just another test message!" (1405 ms)
+[2025-11-03 13:54:05] [32minfo[39m: SMS sent: "Ever wondered where lost socks go?" (1246 ms)
+[2025-11-03 13:54:14] [32minfo[39m: SMS sent: "Message number four reporting for duty!" (1275 ms)
+[2025-11-03 13:54:23] [32minfo[39m: SMS sent: "If cats could text, what would they even say?" (1217 ms)
+[2025-11-03 13:54:34] [32minfo[39m: SMS sent: "How much does a cloud weigh on a sunny day?" (3798 ms)
+[2025-11-03 13:54:43] [32minfo[39m: SMS sent: "Hello there, this is test message number one!" (995 ms)
+[2025-11-03 13:54:50] [32minfo[39m: Sending final MMS message...
+[2025-11-03 13:54:53] [32minfo[39m: MMS sent (2863 ms)
+[2025-11-03 13:54:53] [32minfo[39m: All messages sent successfully.
+[2025-11-03 13:54:53] [32minfo[39m: Sending SIGINT signal to process
+[2025-11-03 13:57:08] [32minfo[39m: SQLite database initialized and table verified.
+[2025-11-03 13:57:08] [32minfo[39m: test POSIX SIGHUP SIGNAL
+[2025-11-03 13:57:08] [32minfo[39m: Starting SMS message sequence...
+[2025-11-03 13:57:08] [33mwarn[39m: SIGHUP signal received!
+[2025-11-03 13:57:11] [32minfo[39m: SMS sent: "Message number ten — the grand finale!" (2310 ms)
+[2025-11-03 13:57:20] [32minfo[39m: SMS sent: "Testing, testing... is anyone out there?" (1949 ms)
+[2025-11-03 13:57:29] [32minfo[39m: SMS sent: "This message is sponsored by curiosity." (729 ms)
+[2025-11-03 13:57:37] [32minfo[39m: SMS sent: "How many tacos is too many tacos?" (711 ms)
+[2025-11-03 13:57:45] [32minfo[39m: SMS sent: "Beep boop... just another test message!" (1065 ms)
+[2025-11-03 13:57:54] [32minfo[39m: SMS sent: "Ever wondered where lost socks go?" (772 ms)
+[2025-11-03 13:58:03] [32minfo[39m: SMS sent: "Message number four reporting for duty!" (1323 ms)
+[2025-11-03 13:58:11] [32minfo[39m: SMS sent: "If cats could text, what would they even say?" (1031 ms)
+[2025-11-03 13:58:20] [32minfo[39m: SMS sent: "How much does a cloud weigh on a sunny day?" (1013 ms)
+[2025-11-03 13:58:28] [32minfo[39m: SMS sent: "Hello there, this is test message number one!" (884 ms)
+[2025-11-03 13:58:36] [32minfo[39m: Sending final MMS message...
+[2025-11-03 13:58:37] [32minfo[39m: MMS sent (1653 ms)
+[2025-11-03 13:58:37] [32minfo[39m: All messages sent successfully.
+[2025-11-03 13:58:37] [32minfo[39m: Sending SIGINT signal to process
